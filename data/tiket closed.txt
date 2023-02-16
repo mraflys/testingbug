@@ -1,0 +1,766 @@
+Laporan periode 13 Oktober pukul 05.39 WIB
+
+Total Tiket: 66
+Closed : 18
+Pending : 24
+In progress : 24
+
+1.
+[#ILCS-AAAD-6898]
+Cabang : Samarinda
+Waktu Open : 23/09/2022 08.41
+Issue : Request Gerakan ke 3 (PINDAH) Kapal Nunukan untuk dihapus
+Status : Pending
+Solusi : -
+Waktu Close : -
+Kategori : Operation / Phinnisi
+Kategori App : Penyesuaian Data kapal
+
+2.
+[#ILCS-AAAD-7151]
+Cabang : Samarinda
+Waktu Open : 26/09/2022 07.40
+Issue : Data laporan bulanan rusak
+Status : Pending
+Solusi : -
+Waktu Close : -
+Kategori : Billing / Praya
+Kategori App : -
+
+3.  
+[#ILCS-AAAD-7955]
+Cabang : Dumai
+Waktu Open : 30/09/2022 17.47
+Issue : ganti tunda dan arah gerakan kapal
+Status : Pending
+Solusi : -
+Waktu Close : -
+Kategori : Operation / Phinnisi
+Kategori App : ganti Kapal Tunda
+
+4.
+[#ILCS-AAAD-8214]
+Cabang : Semarang
+Waktu Open : 03/10/2022 10.18
+Issue : Request User, menampilkan tanggal send invoice, ketika diklik send invoice pada tabel baru pada DPJK.
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Request User
+Kategori App : Guide Agent
+
+5.
+[#ILCS-AAAD-8229]
+Cabang : Semarang
+Waktu Open : 03/10/2022 11.13
+Issue : Laporan bulanan yang seharusnya cabang semarang, tetapi yang tampil malah cabang bengkulu
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Operation / Phinnisi
+Kategori App : Guide Agent
+
+6.
+#ILCS-AAAD-8413
+Cabang : Semarang
+Waktu Open : 04/10/2022 13.46
+Issue : Request user
+Status : Close
+Solusi : -
+Waktu Close : 13/10/2022 13.23
+Kategori : Opration / Phinnisi
+Kategori App : Guide Agen
+
+7. 
+#ILCS-AAAD-8889
+Cabang : Semarang
+Waktu Open : 07/10/2022 05.19
+Issue : Request User, Penambahan tombol edit pada Open Realization
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Operation / Phinnisi
+Kategori App : Ubah waktu realisasi
+
+8.
+#ILCS-AAAD-8972
+Cabang : Samarinda
+Waktu Open : 07/10/2022 14.20
+Issue : di praya berhasil send sukses, tetapi tidak masuk ke ibs, dan pastikan masuk ke GL TUKS
+Status : Close
+Solusi : -
+Waktu Close : 13/10/2022 07.18
+Kategori : Billing / Praya
+Kategori App : Tidak dapat kirim pranota
+
+9.
+[#ILCS-AAAD-9021]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.11
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+10.
+[#ILCS-AAAD-9023]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.17
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+11.
+[#ILCS-AAAD-9024]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.22
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing    
+Kategori App : Tidak dapat kirim pranota
+
+12.
+[#ILCS-AAAD-9025]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.26
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+13.
+[#ILCS-AAAD-9026]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.29
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+14. 
+[#ILCS-AAAD-9027]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.32
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+15. 
+[#ILCS-AAAD-9029] ‏
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.46
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+16. 
+[#ILCS-AAAD-9030] ‏
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.48
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+17. 
+[#ILCS-AAAD-9031]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.50
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+18. 
+[#ILCS-AAAD-9032]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.53
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+19. 
+[#ILCS-AAAD-9033] ‏
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.57
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+20. 
+[#ILCS-AAAD-9034]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 20.50
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+21. 
+[#ILCS-AAAD-9035]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 21.54
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+22. 
+[#ILCS-AAAD-9036]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 21.06
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+23. 
+[#ILCS-AAAD-9037]
+Cabang : Surabaya
+Waktu Open : 07/10/2022 21.08
+Issue : Kegiatan kapal sudah selesai tetapi nota belum muncul
+Status : Pending
+Solusi :
+Waktu Close :
+Kategori : Billing
+Kategori App : Tidak dapat kirim pranota
+
+24. 
+#ILCS-AAAD-9085
+Cabang : Surabaya
+Waktu Open : 08/10/2022 14.34
+Issue : Kegiatan kapal selesai tetapi nota belum muncul
+Status : Pending   
+Solusi : -
+Waktu Close : -
+Kategori : Billing / Praya
+Kategori App : Cetakan DPJK/Pranota Tidak Sesuai
+
+25. 
+#ILCS-AAAD-9087
+Cabang : Surabaya
+Waktu Open : 08/10/2022 14.36
+Issue : Kegiatan kapal selesai tetapi nota belum muncul
+Status : Pending
+Solusi : -
+Waktu Close : -
+Kategori : Billing / Praya
+Kategori App : Cetakan DPJK/Pranota Tidak Sesuai
+
+26.
+#ILCS-AAAD-9221‏ 
+Cabang : Kendari
+Waktu Open : 10/10/2022 09.52
+Issue :  Sudah dilakukan resend dari praya namun data keagenan di IBS masih salah
+Status : In Progress
+Solusi : 
+Waktu Close : 
+Kategori : Billing
+Kategori App : Cetakan DPJK/Pranota tidak sesuai
+
+27.
+#ILCS-AAAD-9229
+Cabang : Samarinda
+Waktu Open : 10/10/2022 10.08
+Issue : pandu dan tunda masuk ke dermaga umum , harusnya masuk ke tuks NO NOTA 22101910001042 dan 22101910001013
+Status : In Progress
+Solusi : 
+Waktu Close : 
+Kategori : Billing
+Kategori App : Cetakan Nota tidak sesuai
+
+28.
+#ILCS-AAAD-9245
+Cabang : Makasar
+Waktu Open : 10/10/2022 12.07
+Issue : Tagihan tunda masuk harusnya ditagihkan 2 kali seperti tagihan tunda keluar
+Status : Close
+Solusi : -
+Waktu Close : 13/10/2022 13.34
+Kategori : Billing
+Kategori App : Cetakan DPJK/Pranota tidak sesuai
+
+29.
+#ILCS-AAAD-9250
+Cabang :Dumai
+Waktu Open : 10/10/2022 12.24
+Issue :Nama Tunda Belum Sesuai di 2A1 dan DPJK
+Status : Close
+Solusi : -
+Waktu Close : 13/10/2022 11.09
+Kategori : Billing
+Kategori App : Tidak bisa tambah tunda
+
+30.
+#ILCS-AAAD-9287
+Cabang :Samarinda
+Waktu Open : 10/10/2022 15.07
+Issue : Request MoB dari Kapal Tunda BNR yang awalnya 1 jam diubah menjadi hanya setengah jam (30 menit)
+Status : In Progress
+Solusi : 
+Waktu Close : 
+Kategori : Billing
+Kategori App : 
+
+31.
+#ILCS-AAAD-9290
+Cabang : Makassar
+Waktu Open : 10/10/2022 15.38
+Issue :Request User, tidak ada lagi status "OnTheJoob" setelah penetapan resourche di akun planner 
+Status : In Progress
+Solusi : 
+Waktu Close : 
+Kategori : Operation / Phinnisi
+Kategori App : Status Resource On the job
+
+32.
+#ILCS-AAAD-9293
+Cabang : Surabaya  
+Waktu Open : 10/10/2022 16.00
+Issue :RPKRO revisii
+Status : Close
+Solusi : PPKB Tambat (PPKB ke-1) cancel dikarenakan agen membuat PPKB perubahan untuk PPKB pertama
+Waktu Close : 13/10/2022 11.19
+Kategori : 
+Kategori App : RPKRO Tidak muncul
+
+33.
+#ILCS-AAAD-9363
+Cabang : Semarang
+Waktu Open : 11/10/2022 09.24
+Issue : Request dari User, Otomatisasi pengisian last meter di KADE meter.
+Status : In Progress
+Solusi : 
+Waktu Close : 
+Kategori : Operation / Phinnisi
+Kategori App :
+
+34.
+#ILCS-AAAD_9369
+Cabang : Dumai
+Waktu Open : 11/10/2022 09.53
+Issue : Tunda dan Pandu belum sesuai
+Status : In Progress
+Solusi : 
+Waktu Close : 
+Kategori : Billing
+Kategori App : SPK Pandu tidak muncul
+
+35.
+#ILCS-AAAD-9389
+Cabang : Dumai
+Waktu Open : 11/10/2022 10.40
+Issue :  Nama tunda tidak sesuai
+Status : Close
+Solusi : -
+Waktu Close : 13/10/2022 09.17
+Kategori : Operation / Phinnisi
+Kategori App : Ganti kapal tunda
+
+36.
+#ILCS-AAAD-9410 
+Cabang : Samarinda
+Waktu Open : 11/10/2022 11.16
+Issue :  bali gianyar tidak muncul di dtjk dan dpjk, sudah realiasi semua masih belum abu-abu
+Status : Close
+Solusi : melakukan perubahan pada in_dkk pada table pkks
+Waktu Close : 13/10/2022 15.41
+Kategori : Billing
+Kategori App : Cetakan DTJK Tidak sesuai
+
+37.
+#ILCS-AAAD-9425 
+Cabang : Samarinda
+Cabang : Makasar
+Waktu Open : 11/10/2022 12.38
+Issue : cetakan DPJK tidak muncul 
+Status : Close
+Solusi : -
+Waktu Close : 13/10/2022 09.39
+Kategori : Billing
+Kategori App : Tidak Bisa Cetak DTJK
+
+38.
+#ILCS-AAAD-9478‏ 
+Cabang : Kendari
+Waktu Open : 11/10/2022 19.06
+Issue : Hapus tagihan tambat masa II, karena tidak tambat masa II
+Status : In Progres
+Solusi : -
+Waktu Close : -
+Kategori : Billing
+Kategori App :  Cetakan DPJK / Pranota tidak sesuai
+
+39.
+#ILCS-AAAD-9513
+Cabang : Semarang
+Waktu Open : 12/10/2022 07.08
+Issue : Untuk masa seharusnya 3 hari dari tanggal 16-19 September, bukan sampai 17 September
+Status : Close
+Solusi : -
+Waktu Close : 13/10/2022 09.24
+Kategori : Operation / Phinnisi
+Kategori App :Cetakan DPJK / Pranota tidak sesuai
+
+40.
+#ILCS-AAAD-9518
+Cabang : Makassar
+Waktu Open : 12/10/2022 08.16
+Issue : Data tambat tidak muncul di menu Executing realization 2A1 padahal status di job activity sudah complete
+Status : Close
+Solusi : -
+Waktu Close : 13/10/2022 11.08
+Kategori : Operation / Phinnisi
+Kategori App : Tidak bisa Realisasi Layanan
+
+41.
+#ILCS-AAAD-9537
+Cabang : Samarinda
+Waktu Open : 12/10/2022 09.24
+Issue : Sudah direalisasi tetapi keterangan di DKK status realisasi belum dibuat
+Status : Close
+Solusi : perubahan pada database FAQ [Mitigasi L1 No.74]
+Waktu Close : 13/10/2022 10.25
+Kategori : Billing
+Kategori App : Data Kapal Tidak Muncul
+
+42.
+#ILCS-AAAD-9539
+Cabang : Makassar
+Waktu Open : 12/10/2022 09.28
+Issue : Data tambat tidak muncul di menu Executing realization 2A1 padahal status di job activity sudah complete
+Status : Close
+Solusi : -
+Waktu Close : 13/10/2022 11.22
+Kategori : Operation / Phinnisi
+Kategori App : Tidak bisa Realisasi Layanan
+
+43.
+#ILCS-AAAD-9540
+Cabang : Samarinda
+Waktu Open : 12/10/2022 09.29
+Issue : DTJK dan DPJK tidak muncul
+Status : Close
+Solusi : perubahan pada database
+Waktu Close : 13/10/2022 11.41
+Kategori : Billing
+App : Data Kapal Tidak Muncul
+
+44.
+#ILCS-AAAD-9550
+Cabang : Surabaya
+Waktu Open : 12/10/2022 10.36
+Issue : Cetak FS
+Status : Close
+Solusi : -
+Waktu Close : 13/10/2022 17.10
+Kategori : Billing
+Kategori App : Tidak Bisa Cetak DPJK
+
+45.
+#ILCS-AAAD-9580
+Cabang : Semarang
+Waktu Open : 12/10/2022 13.12
+Issue : Uang tambat tidak muncul
+Status : Close
+Solusi : Update acuan etmal
+Waktu Close : 13/10/2022 16.46
+Kategori : Billing
+Kategori App : Cetakan DPJK/Pranota Tidak Sesuai
+
+46.
+#ILCS-AAAD-9589
+Cabang : Makassar
+Waktu Open : 12/10/2022 13:51
+Issue : Tidak Dapat send Invoice
+Status : Close
+Solusi : ada nya perubahan pada data master
+Waktu Close : 13/10/2022 14.23
+Kategori : Billing
+Kategori App : Tidak Dapat kirim Pranota
+
+47.
+#ILCS-AAAD-9613
+Cabang : Makassar
+Waktu Open : 12/10/2022 15:27
+Issue : JAYANEGARA 310.tolong dibantu dimasukkan ke resource kapal
+Status : Close
+Solusi : ambahkan id_tug pada tabel trx_order_assigned
+Waktu Close : 13/10/2022 09.16
+Kategori : Phinnisi
+Kategori App : Tidak bisa Tambah Tunda
+
+48.
+#ILCS-AAAD-9647 
+Cabang : Semarang
+Waktu Open : 12/10/2022 20.12
+Issue : Uang Kepil tidak sesuai
+Status : In Progress
+Solusi : -
+Waktu Close : -
+Kategori : Billing / Praya
+Kategori App : Tidak bisa Tambah Tunda
+
+50.
+#ILCS-AAAD-9681 
+Cabang : Surabaya
+Waktu Open : 13/10/2022 08.21
+Issue : Hapus tug (karena di schedule tidak pakai tunda)
+Status : Closed
+Solusi : Ubah value sign_tug menjadi " 0 " dan un cek is_tug di tabel trx_order_header
+Waktu Close : 13/10/2022 08.49
+Kategori : Opration / Phinnisi
+Kategori App : Hapus Kapal Tunda
+
+51.
+#ILCS-AAAD-9682 
+Cabang : Dumai
+Waktu Open : 13/10/2022 08.32
+Issue : tug boat tidak muncul
+Status : Closed
+Solusi : Cek Data kapal di tabel repair dan Rubah repairing_status menjadi '1'
+Waktu Close : 13/10/2022 09.05
+Kategori : Opration / Phinnisi
+Kategori App : Tidak bisa Tambah Tunda
+
+52.
+#ILCS-AAAD-9684 
+Cabang : Bengkulu
+Waktu Open : 13/10/2022 08.45
+Issue : Aktivasi Kapal  
+Status : Closed
+Solusi : Aktivasi Kapal di Phinnisi pada menu Costumer Vessel
+Waktu Close : 13/10/2022 08.54
+Kategori : Opration / Phinnisi
+Kategori App : Data Kapal Tidak Muncul
+
+53.
+#ILCS-AAAD-9688‏
+Cabang : Semarang
+Waktu Open : 13/10/2022 09.26
+Issue : Salah cetak pada DPJK
+Status : Closed
+Solusi : Ubah cruise_type pada tabel pkks menjadi "Luar Negeri" (FAQ 89)
+Waktu Close : 13/10/2022 09.37
+Kategori : Billing / Praya
+Kategori App : Cetakan DPJK/Pranota Tidak Sesuai
+
+54.
+#ILCS-AAAD-9695 
+Cabang : Surabaya
+Waktu Open : 13/10/2022 10.09
+Issue : geser waktu di gantchart
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+55.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+56.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+57.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+58.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+59.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+60.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+61.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+62.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+63.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+64.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+65.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+66.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+67.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+68.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+69.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
+
+70.
+#ILCS-AAAD-9681 
+Cabang : -
+Waktu Open : -
+Issue : -
+Status : Closed
+Solusi : -
+Waktu Close : -
+Kategori : -
+Kategori App : -
